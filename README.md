@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&width=440&height=45&lines=Frontend+developer)](https://git.io/typing-svg)
+
 # 💫 About Me:
 👋 Hi, I'm Anushavan Anatolian<br>👨‍💻 Frontend developer<br>🌱 Currently studying at RSSchool
 
